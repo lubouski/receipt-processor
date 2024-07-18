@@ -1,0 +1,1 @@
+https://github.com/eliben/code-for-blog/blob/main/2021/go-rest-servers/stdlib-newmux/stdlib-newmux.go
